@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.MoviePic{
+.moviePic{
 	height:400px;
 	width:600px;
 	opacity:1.5;
 }
-.MovieDetails{
+.movieDetail{
 	position:relative;
 	top:20px;
 	width:600px;
